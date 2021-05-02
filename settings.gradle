@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Turtorial 01"
+rootProject.name = "Json Data"
